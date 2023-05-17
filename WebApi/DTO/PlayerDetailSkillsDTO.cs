@@ -1,0 +1,10 @@
+﻿namespace WebApi.DTO
+{
+    public class PlayerDetailSkillsDTO
+    {
+        public int Id { get; set; }
+        public string Skill { get; set; } = string.Empty;
+        public int Value { get; set; }
+        public int PlayerId { get; set; }
+    }
+}

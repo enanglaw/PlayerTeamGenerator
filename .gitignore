@@ -1,0 +1,18 @@
+# Visual Studio
+/.vs/
+bin/
+obj/
+
+# MonoDevelop / Xamarin Studio
+*.userprefs
+
+# NuGet packages
+packages/
+
+# macOS
+.DS_Store
+
+*.db
+
+# SonarQube
+.sonarqube/
